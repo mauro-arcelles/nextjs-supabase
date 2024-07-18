@@ -21,9 +21,3 @@ Hopefully, from this project and the video, you can learn:
 - Supabase Auth and Database
 - useFormState
 - useOptimistic
-
-## YouTube
-
-You can follow along with me as we build this on YouTube. The commits will line up with the YouTube chapters so you can easily see what changed in each section.
-
-[![YouTube video]()](<[https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/VIDEO_ID)>)
